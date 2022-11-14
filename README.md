@@ -4,7 +4,7 @@ Olá, eu sou Luiz Gustavo.
 
 ## Meus hobbies
 
-- Jogar jogos mobile.
+- Jogar jogos mobile   
 - Assistir séries, filmes.
 
 ## Meus estudos
