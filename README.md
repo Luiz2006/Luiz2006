@@ -1,9 +1,9 @@
 # Olá, eu sou Luiz Gustavo.
 
 <div align="center">
-  <a href="https://github.com/Luiz2006">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz2006&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz2006&layout=compact&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Luiznuness">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiznuness&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiznuness&layout=compact&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
